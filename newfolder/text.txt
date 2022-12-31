@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-happy newyear 2023
-
-=======
->>>>>>> parent of 18e2eb5 (Update text.txt)
+happy newyear 2023 
+welcome to  the world of git hub
