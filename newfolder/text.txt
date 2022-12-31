@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 happy newyear 2023 
 welcome
-=======
->>>>>>> parent of 18e2eb5 (Update text.txt)
